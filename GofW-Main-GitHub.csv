@@ -1,0 +1,222 @@
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,Key:
+,,Troops – Master List,,,,,,,,,,Updated 27th March 2016,,,,,,,,,,Work in Progress – The magic values really need checking – Not enough data online for the new 1.0.9 troops
+,,,,,,,,,,,,,,,,,,,,,,
+,,http://gems-of-war.wikia.com/wiki/Troops,,,,,,,,,,Request 21st March 2016,,,,,,,,,,
+,,http://gemsofwar.com/game-guide-troop-list/,,,,,,,,,,http://community.gemsofwar.com/t/anyone-have-a-new-troop-list/4815,,,,,,Souls,Souls,,,
+,No:,Troop,#,Mana1,Mana2,Type,Kingdom,Rarity,Rarity Now,Level,Traits,,1st Trait,2nd Trait,3rd Trait,Troop,,Spent,Req’d,Web-scrape,Spell,Spell Description
+,1,Abhorath,15,Blue,Purple,Daemon,Karakoth,Legendary,Legendary,19,1,1,Arcane,Huge,Sacrifice,Abhorath,6,5855,1000,Abhorath,Devour the World,"Remove all Gems. Heal to full, and gain [1+Magic] Attack."
+,2,Acolyte,10,Blue,Purple,Human,Karakoth,Rare,Mythic,19,1,1,Stone Link,Cursed,Jinx ,Acolyte,3,4185,700,Acolyte,Unearth Secrets,Create 9 Brown Gems. Increase a random Skill by [0+Magic].
+,3,Alastair,14,Blue,Purple,Undead,Khetar,Epic,Legendary,19,1,1,Undead Slayer,Avenger,Armored ,Alastair,5,5245,900,Alastair,Resolve,"Give all allies [0+Magic] Armor, and remove all Purple Gems to Boost the effect. (Boost Ratio 4:1)"
+,4,Alchemist,10,Red,Brown,Human,Adana,Ultra-Rare,Mythic,19,3,1,Merchant,Fire Link,Alert ,Alchemist,4,4665,800,Alchemist,Alchemy,Transform a selected Mana color to Yellow. Gain [3+Magic] Gold.
+,5,Ancient Horror,10,Brown,Purple,Daemon,Karakoth,Ultra-Rare,Legendary,19,1,1,Cursed,Magic Link,Stone Spirit ,Ancient Horror,4,4665,800,Ancient Horror,Devour,Deal [3+Magic] damage to an enemy. Gain 3 Attack if the enemy dies.
+,6,Anointed One,12,Red,Blue,Human,Darkstone,Ultra-Rare,Legendary,9,0,1,Water Brand,Fast,Frenzy ,Anointed One,4,745,4720,Anointed One,Frenzy,"Gain [1+Magic] Attack and Life, and transform all Green Gems to Red to Boost the effect. (Boost Ratio 3:1)"
+,7,Archon Statue,10,Green,Brown,Divine,Whitehelm,Rare,Mythic,19,3,1,Undead Slayer,Stone Spirit,Stoneskin ,Archon Statue,3,4185,700,Archon Statue,Retribution,Deal [3+Magic] damage to the healthiest enemy. Deal 6 more if I am damaged.
+,8,Atlanta,13,Purple,Yellow,Human,Divinion Fields,Epic,Epic,8,0,1,Wildfolk Slayer,Air Link,Armor Piercing,Atlanta,5,560,5585,Atlanta,Rain of Arrows,Deal [2+Magic] damage to all enemies.
+,9,Autumnal Imp,12,Brown,,Elemental,Primal,Legendary,Legendary,16,0,1,Elemental Bond,Stone Link,Fall,Autumnal Imp,6,3905,2950,Autumnal Imp,Harvester’s Moon,"Deal [3+Magic] damage randomly split among enemies, and destroy 10 random Gems. If an enemy dies gain 8 Magic."
+,10,Avina,11,Red,Purple,Human,Ghulvania,Epic,Legendary,1,0,1,Undead Slayer,Warded,Armor Piercing,Avina,5,0,6145,Avina,Stake,Deal [2+Magic] damage to an enemy. Deal triple damage if they are Undead. Gain 1 Soul.
+,11,Aziris,5,Red,Purple,Undead,Khetar,Epic,Epic,18,1,1,Divine Slayer,Necromancy,Magic Link ,Aziris,5,4545,1600,Aziris,Finger of Death,Transform a selected Mana Gem into a Skull.
+,12,Banshee,14,Purple,Yellow,Undead,Ghulvania,Rare,Mythic,20,3,1,Magic Link,Jinx,Air Spirit ,Banshee,3,4885,0,Banshee,Scream,"Deal [2+Magic] damage, and transform all Blue Gems to Red to Boost the effect. (Boost Ratio 3:1)"
+,13,Barbearius,13,Red,Green,Wildfolk,Maugrim Woods,Epic,Epic,7,0,1,Sturdy,Avenger,Regeneration ,Barbearius,5,360,5785,Barbearius,Wallop,"Explode a gem. Deal [5+Magic] damage to a random enemy, Boosted by each Brown Gem destroyed. (Boost Ratio x2)"
+,14,Behemoth,15,Blue,Brown,Monster,Pridelands,Legendary,missing,1,,0,Siege,Huge,Impervious ,Behemoth,6,0,6855,Behemoth,Lay Waste,Deal [2+Magic] damage to all enemies. Destroy 8 random gems.
+,15,Berserker,12,Red,Blue,Giant,Stormheim,Ultra-Rare,Legendary,19,3,1,Frenzy,Big,Regeneration ,Berserker,4,4665,800,Berserker,Berserk!,Deal 3 – [8+Magic] damage to an enemy. Take 2 damage and gain 4 Attack.
+,16,Black Beast,13,Green,Brown,Beast,Zaejin,Ultra-Rare,Legendary,19,1,1,Cunning,Avenger,Regeneration ,Black Beast,4,4665,800,Black Beast,All You Can Eat,"Devour an ally. Heal, and add all their Armor, Life and Attack to yours."
+,17,Blade Dancer,11,Yellow,Green,Wildfolk,Pan's Vale,Ultra-Rare,Legendary,7,1,1,Siege,Fast,Agile ,Blade Dancer,4,325,5140,Blade Dancer,Blade Dance,"Deal [4+Magic] damage randomly split among enemies, boosted by all enemy Armor. (Boost Ratio 2:1)"
+,18,Blast Cannon,14,Red,Brown,Construct,Khaziel,Ultra-Rare,Legendary,15,1,1,Construct Slayer,Stone Link,Aflame ,Blast Cannon,4,2715,2750,Blast Cannon,Ground Zero,"Deal [5+Magic] damage to a random enemy, and Silence them."
+,19,Boar Rider,9,Purple,Green,Marauder,Zaejin,Rare,Mythic,20,3,1,Beast Bond,Defender,Nature Spirit ,Boar Rider,3,4885,0,Boar Rider,Boar & Gore,"Remove a row, and deal [2+Magic] damage to the first enemy. Gain an extra turn."
+,20,Bombardier,8,Red,Brown,Dwarf,Khaziel,Rare,Mythic,15,1,1,Dwarf Bond,Sturdy,Pyromania ,Bombardier,3,2485,2400,Bombardier,Boom!,Explode a Gem. Deal [1+Magic] damage to a random enemy.
+,21,Bone Dragon,14,Brown,Red,Dragon,Khetar,Legendary,missing,1,,0,Sturdy,Cursed,Agile ,Bone Dragon,6,0,6855,Bone Dragon,Strip Flesh,"Destroy an enemy’s Armor, and create 8 Skulls Boosted by Armor destroyed. Gain [0+Magic] Armor. (Boost Ratio 2:1)"
+,22,Brian the Lucky,12,Green,Brown,Knight,Zaejin,Epic,Epic,18,0,1,Knight Bond,Marauder Slayer,Alert ,Brian the Lucky,5,4545,1600,Brian the Lucky,Cheers!,Increase a random skill on all other allies by [1+Magic].
+,23,Bul'Tauros,11,Red,Yellow,Wildfolk,Divinion Fields,Epic,Legendary,8,0,1,Frenzy,Sturdy,Regeneration ,Bul'Tauros,5,560,5585,Bul’Tauros,Stampede,"Deal [2+Magic] damage randomly split among enemies, and use my Life to Boost damage. (Boost Ratio 2:1)"
+,24,Bunni’Nog,14,Brown,,Beast,Pan’s Vale,Legendary,missing,1,,0,Beast Bond,Fast,Nasty Teeth,Bunni’Nog,6,0,6855,Carnex,Chain Reaction,Deal [???+ Magic] damage to an enemy. Deal double damage if the enemy is a knight. Gain [???] attack and life
+,25,Carnex,15,Red,Red,Construct,Adana,Legendary,Legendary,19,0,1,Armored,Impervious,Spiked Armor,Carnex,6,5855,1000,Celestasia,Radiance,Explode [2+Magic] random Skulls. Gain 3 Armor.
+,26,Celestasia,14,Yellow,Blue,Dragon,Whitehelm,Legendary,Legendary,1,0,1,Dragon Bond,Blessed,Agile ,Celestasia,6,0,6855,Centaur Scout,Charge,Create 10 Gems of a chosen ally’s Mana Color. Cleanse and give them [2+Magic] Life.
+,27,Centaur Scout,7,Yellow,,Wildfolk,Divinion Fields,Common,Mythic,7,3,1,Air Spirit,Agile,Fast,Centaur Scout,2,275,4090,Chimera,Triple Bite,"Destroy a row, and deal [1+Magic] damage to the first enemy."
+,28,Chimera,12,Red,Green,Monster,Pridelands,Ultra-Rare,Legendary,8,1,1,Fire Brand,Sturdy,Arcane ,Chimera,4,505,4960,Cockatrice,Stone Song,"Deal [3+Magic] damage to the healthiest enemy, then Poison and Entangle them."
+,29,Cockatrice,9,Brown,Yellow,Monster,Maugrim Woods,Rare,Mythic,12,1,1,Flying,Air Link,Avenger ,Cockatrice,3,1535,3350,Crimson Bat,Blood Feast,"Entangle an enemy, and drain their Mana."
+,30,Crimson Bat,16,Red,Blue,Monster,Ghulvania,Legendary,Legendary,8,0,1,Divine Slayer,Cursed,BloodSucking,Crimson Bat,6,630,6225,Cthyryzyx,Insanity,Deal [1+Magic] True Damage to all enemies. Gain 8 Life.
+,31,Cthyryzyx,11,Blue,Red,Daemon,Karakoth,Epic,Legendary,19,0,1,Defender,Jinx,Death Touch,Cthyryzyx,5,5245,900,Cyclops,Clobber,"Deal 3-[8+Magic] damage to a random enemy. Increase a random Skill by 8, then a 50% chance to Jumble the board."
+,32,Cyclops,11,Red,Brown,Giant,Grosh-Nak,Rare,Mythic,19,1,1,Fire Brand,Frenzy,Big ,Cyclops,3,4185,700,Dark Maiden,Spiderbite,"Deal [1+Magic] damage to the first enemy, Boosted by my Attack. (Boost Ratio 1:1)"
+,33,Dark Maiden,6,Red,Green,Elf,Zhul'Kari,Rare,Mythic,9,1,1,Nature Link,Cursed,Fire Spirit ,Dark Maiden,3,680,4205,Dark Master,Cat O’Nine Tails,Poison an enemy and deal [0+Magic] Damage.
+,34,Dark Master,14,Red,Red,Knight,Darkstone,Rare,Legendary,9,1,1,Knight Bond,Cursed,Armored ,Dark Master,3,680,4205,Dark Song,Mojo,"Deal 9 damage to an enemy. Summon a level [0] Thrall. If enemy dies, give 2 Attack to all allies."
+,35,Dark Song,13,Purple,Green,Marauder,Grosh-Nak,Epic,Legendary,15,1,1,Magic Link,Jinx,Nature Spirit ,Dark Song,5,3045,3100,Deep Borer,Drill,Deal [6+Magic] damage to an enemy. Deal double damage if they use Green Mana.
+,36,Deep Borer,9,Red,Blue,Construct,Khaziel,Rare,Mythic,20,2,1,Construct Bond,Water Link,Armored ,Deep Borer,3,4885,0,Dimetraxia,Pyroblast,"Destroy a column. Create 9 Brown gems, and gain [1+Magic] Armor."
+,37,Dimetraxia,13,Red,Yellow,Dragon,Darkstone,Epic,Legendary,10,0,1,Dragon Bond,Fireproof,Pyromania ,Dimetraxia,5,1165,4980,Dire Wolf,Mark Prey,"Deal [4+Magic] damage randomly split among enemies, with a 25% chance to Burn everyone."
+,38,Dire Wolf,6,Green,,Beast,Maugrim Woods,Common,Mythic,20,3,1,Cunning,Nature Brand,Agile ,Dire Wolf,2,4365,0,Dokkalfar,Dark Swarm,Place Hunter’s Mark on an enemy.
+,39,Djinn,10,Yellow,Blue,Elemental,Drifting Sands,Rare,Ultra-Rare,10,1,1,Elemental Bond,Water Heart,Air Spirit,Djinn,3,955,3930,Drake Rider,Raze,"Give [1+Magic] life to an ally, and one of the following: Create 6 gems of their mana color, OR give 2 magic."
+,40,Dokkalfar,15,Red,Green,Elf,Zhul'Kari,Epic,missing,1,,0,Sturdy,Alert,Daemonic Pact ,Dokkalfar,5,0,6145,Druid,Thorn Whip,Summon a level [0] Spider Swarm. Gain 1 Magic.
+,41,Drake Rider,11,Brown,Red,Marauder,Grosh-Nak,Ultra-Rare,Legendary,9,1,1,Dragon Bond,Fireproof,Pyromania ,Drake Rider,4,745,4720,Dryad,Nature’s Gift,"Deal [4+Magic] damage to an enemy, and 1 damage to adjacent enemies. Transform all Yellow Gems to Red to Boost the effect. (Boost Ratio 3:1)"
+,42,Druid,12,Green,Blue,Wildfolk,Maugrim Woods,Ultra-Rare,Legendary,7,2,1,Water Link,Blessed,Fast ,Druid,4,325,5140,Dwarf Lord,Ancestral Axe,"Deal [2+Magic] damage to 2 random enemies, and 1 damage to adjacent enemies."
+,43,Dryad,8,Yellow,Blue,Fey,Forest of Thorns,Rare,Mythic,20,3,1,Fey Bond,Blessed,Impervious ,Dryad,3,4885,0,Dwarven Miner,Dig,"Give 3 Life to an Ally, and restore [1+Magic] Life to them. Create 9 Green Gems."
+,44,Dust Devil,10,Brown,Yellow,Elemental,Drifting Sands,Rare,Rare,7,1,1,Elemental Bond,Air Link,Empowered,Dust Devil,3,295,4590,Elf-Eater,Crunch,"Deal [1+Magic] damage to all enemies, and knock the first enemy to the back."
+,45,Dwarf Lord,9,Blue,Brown,Dwarf,Khaziel,Rare,Mythic,20,3,1,Dwarf Bond,Merchant,Reinforced ,Dwarf Lord,3,4885,0,Elwyn,Power Chord,Deal [4+Magic] damage to the first enemy. Gain 4 Armor if the enemy dies.
+,46,Dwarven Miner,3,Brown,,Dwarf,Khaziel,Common,Mythic,20,3,1,Greedy,Stone Link,Impervious ,Dwarven Miner,2,4365,0,Emperina,Breath of Life,Destroy a Gem. Gain [0+Magic] Gold.
+,47,Elf-Eater,12,Blue,Brown,Giant,Grosh-Nak,Epic,Legendary,9,0,1,Elf Slayer,Stone Brand,Regeneration ,Elf-Eater,5,830,5315,Ettin,Sunder,Deal [4+Magic] damage to an enemy and double damage if they are Fey. Gain 5 Life. There is also a 40% chance to devour Elves.
+,48,Elwyn,12,Yellow,Green,Human,Pan's Vale,Epic,Epic,7,0,1,Greedy,Fey Slayer,Alert ,Elwyn,5,360,5785,Faunessa,Beguile,Destroy a row and column. Deal 1 damage for every Yellow Gem destroyed to a random enemy. (Boost Ratio 1:1)
+,49,Emperina,14,Red,Brown,Dragon,Khaziel,Epic,Epic,19,0,1,Dwarf Slayer,Fire Link,Aflame ,Emperina,5,5245,900,Fenrir,Call of the Pack,"Give an ally [0+Magic] Life and Attack, then Cleanse and Heal them."
+,50,Ettin,9,Blue,Brown,Giant,Broken Spire,Rare,Mythic,20,1,1,Big,Jinx,Empowered ,Ettin,3,4885,0,Ferit,Backstab,"Destroy a column. Gain [0+Magic] Attack, boosted by all Purple Gems destroyed. (Boost Ratio 1:1)"
+,51,Faunessa,8,Red,Yellow,Wildfolk,Pan's Vale,Epic,Legendary,7,0,1,Magic Link,Alert,Empowered ,Faunessa,5,360,5785,Finley,Fair Trade,Deal damage to an enemy equal to their Attack. Gain [0+Magic] Life. (Boost Ratio 1:1)
+,52,Fenrir,13,Green,Brown,Wildfolk,Maugrim Woods,Epic,Legendary,7,0,1,Wildfolk Bond,Leader,Nature Spirit ,Fenrir,5,360,5785,Flame Cannon,Wide Burst,"Give an ally [2+Magic] Attack. If they are a Beast, they gain 4 more Attack. All allies also gain 3 Life."
+,53,Ferit,10,Brown,Red,Human,Karakoth,Epic,Epic,18,0,1,Daemon Slayer,Magic Link,Arcane ,Ferit,5,4545,1600,Flesh Golem,Pulverize,"Deal [5+Magic] damage to the last enemy, and drain their Mana."
+,54,Finley,12,Red,Green,Human,Pridelands,Epic,Epic,15,0,1,Human Bond,Merchant,Alert ,Finley,5,3045,3100,Fortress Gate,Reinforce,Transform all Skulls to the selected Mana color. Gain [2+Magic] gold.
+,55,Flame Cannon,12,Red,Yellow,Construct,Adana,Ultra-Rare,Legendary,19,1,1,Siege,Armored,Aflame ,Flame Cannon,4,4665,800,Frost Giant,Throw Axe,Deal [1+Magic] damage to all enemies.
+,56,Flesh Golem,14,Red,Red,Undead,Ghulvania,Ultra-Rare,Legendary,19,1,1,Necromancy,Big,Regeneration ,Flesh Golem,4,4665,800,Gar’Nok,To War!,Gain [2+Magic] Life. Jumble the board. Entangle the first enemy.
+,57,Fortress Gate,9,Brown,,Construct,Broken Spire,Common,Mythic,20,1,1,Defender,Reinforced,Impervious ,Fortress Gate,2,4365,0,Ghoul,Bite,Gain [3+Magic] Armor.
+,58,Frost Giant,9,Yellow,Blue,Giant,Stormheim,Rare,Mythic,20,1,1,Giant Bond,Water Brand,Big ,Frost Giant,3,4885,0,Giant Spider,Swarm,"Deal [1+Magic] damage to a random enemy, boosted by Skulls. (Boost Ratio 1:1)"
+,59,Gar'Nok,15,Red,Yellow,Marauder,Grosh-Nak,Legendary,Legendary,10,0,1,Avenger,Armored,Orclord,Gar'Nok,6,1305,5550,Glade Warden,Piercing Shot,"Deal 3 damage to all other allies, and increase everyone’s Attack by 8. Summon a level [0] Orc."
+,60,Ghiralee,14,Yellow,Blue,Human,Adana,Epic,Legendary,19,0,1,Construct Slayer,Construct Bond,Reinforced ,Ghiralee,5,5245,900,Gloom Leaf,Corruption,"Deal [1+Magic] damage to an enemy, and steal [1+Magic] from a random skill. Deal double damage vs Constructs."
+,61,Ghoul,4,Brown,,Undead,Ghulvania,Common,Mythic,1,1,1,Stone Link,Cursed,Human Slayer,Ghoul,2,0,4365,Gnoll,Savage Swing,Destroy [3+Magic] random gems. Gain 3 Attack.
+,62,Giant Spider,9,Green,Blue,Beast,Zhul'Kari,Ultra-Rare,Legendary,19,1,1,Magic Link,Big,Venomous ,Giant Spider,4,4665,800,Gob-Chomper,Chomp,"Create 8 Purple Gems, then deal 3 damage to all enemies. Gain [1+Magic] Life."
+,63,Glade Warden,7,Green,,Elf,Forest of Thorns,Common,Mythic,2,1,1,Elf Bond,Nature Spirit,Armor Piercing,Glade Warden,2,10,4355,Goblin,Hide & Sneak,"Deal [1+Magic] damage to an enemy, and remove all Green Gems to Boost damage. (Boost Ratio 3:1)"
+,64,Gloom Leaf,17,Red,Green,Fey,Forest of Thorns,Legendary,Legendary,10,0,1,Defender,Huge,Thorns,Gloom Leaf,6,1305,5550,Goblin King,Goblin Feast,Steal [0+Magic] Armor and 2 Attack from all enemies.
+,65,Gnoll,9,Red,Green,Marauder,Wild Plains,Rare,Legendary,1,1,1,Fire Brand,Frenzy,Grudge,Gnoll,3,0,4885,Goblin Rocket,Blast Off!,Deal [3+Magic] damage to a random enemy. Deal triple damage if they use Brown Mana.
+,66,Gob-Chomper,12,Brown,Yellow,Giant,Broken Spire,Epic,Legendary,14,0,1,Marauder Slayer,Big,Empowered ,Gob-Chomper,5,2640,3505,Goblin Shaman,Spirits & Spells,Deal [4+Magic] damage to an enemy and double damage if they are a Monster. Gain 5 Life. There is also a 40% chance to devour Marauders.
+,67,Goblin,6,Green,,Marauder,Zaejin,Common,Mythic,20,3,1,Greedy,Human Slayer,Nature Link ,Goblin,2,4365,0,Golem,Slam,Deal [2+Magic] damage to an enemy. Gain an extra turn.
+,68,Goblin King,16,Green,Brown,Marauder,Zaejin,Legendary,Legendary,19,1,1,Sturdy,Regeneration,Goblord,Goblin King,6,5855,1000,Gorgon,Bull Rush,"Gain 5 Life, and remove all Gems of a chosen color to boost the effect. Summon a level [0] Goblin. (Boost Ratio 2:1)"
+,69,Goblin Rocket,9,Red,Yellow,Construct,Zaejin,Ultra-Rare,Legendary,19,3,1,Fire Link,Fireproof,Aflame ,Goblin Rocket,4,4665,800,Gorgotha,Doomstones,"Explode a gem. Deal [3+Magic] damage to a random enemy, and 1 damage to adjacent enemies. Gain an extra turn."
+,70,Goblin Shaman,10,Brown,Red,Marauder,Zaejin,Rare,Mythic,20,3,1,Marauder Bond,Cursed,Sturdy ,Goblin Shaman,3,4885,0,Grave Knight,Shattering Blow,Create 7 Green Gems. Give a random ally [0+Magic] Life. Gain an extra turn.
+,71,Golem,8,Brown,,Monster,Karakoth,Common,Mythic,20,3,1,Inscribed,Stoneskin,Impervious ,Golem,2,4365,0,Green Seer,Augury,Explode a gem. Reduce all enemy Armor by 1 for each Brown Gem destroyed. (Boost Ratio 1:1)
+,72,Gorgon,12,Red,Brown,Monster,Wild Plains,Ultra-Rare,Legendary,10,1,1,Fire Heart,Fast,Stoneskin ,Gorgon,4,1045,4420,Green Slime,Sludge,Destroy a row. Deal [2+Magic] damage to a random enemy. Boosted by each Red Gem destroyed. (Boost Ratio x2)
+,73,Gorgotha,15,Brown,Yellow,Daemon,Khaziel,Legendary,Legendary,15,0,1,Fireproof,Demonic Pact,Granite Skin,Gorgotha,6,3405,3450,Griffon Knight,Death Dive,Explode [3+Magic] random gems.
+,74,Grave Knight,11,Brown,Red,Undead,Ghulvania,Rare,Legendary,8,1,1,Undead Bond,Stone Spirit,Reinforced ,Grave Knight,3,460,4425,Hag,Toil and Trouble,"Destroy an enemy’s Armor, and deal [1+Magic] Damage."
+,75,Green Seer,10,Purple,Yellow,Fey,Forest of Thorns,Epic,Epic,19,0,1,Fey Bond,Blessed,Alert ,Green Seer,5,5245,900,Herdmaster,Ancient Lore,Transform a selected Mana color to Green. Entangle a random enemy.
+,76,Green Slime,11,Green,Blue,Elemental,Karakoth,Epic,Epic,18,3,1,Nature Link,Sturdy,Jinx ,Green Slime,5,4545,1600,Hippogryph,Swoop,"Create 5 Green Gems, then turn all Green Gems to Purple. Increase a random Skill by [2+Magic]."
+,77,Griffon Knight,9,Blue,Brown,Knight,Sword's Edge,Rare,Mythic,20,2,1,Flying,Water Spirit,Armored ,Griffon Knight,3,4885,0,Hobgoblin,Hack and Slash,"Deal [4+Magic] damage to a random enemy, and create 7 Yellow Gems."
+,78,Hag,10,Purple,Green,Human,Darkstone,Rare,Mythic,20,1,1,Nature Heart,Jinx,Sturdy ,Hag,3,4885,0,Hydra,Thousand Bites,Cause a random Status Effect on an enemy. Increase a random Skill by [1+Magic] on a random ally.
+,79,Hellhound,10,Red,Green,Beast,Blighted Lands,Rare,Ultra-Rare,10,1,1,Beast Bond,Frenzy,Aflame,Hellhound,3,955,3930,Ice Witch,Aura of Ice,Deal [5+Magic] damage to a random enemy and either Burn or Disease them.
+,80,Herald of Chaos,14,Brown,Purple,Daemon,Blighted Lands,Epic,Epic,10,0,1,Leader,Armored,Death Touch,Herald of Chaos,5,1165,4980,Jarl Firemantle,Fire Hammer,"Destroy a row, deal [1+Magic] damage to the first enemy and reduce a random skill by [1+Magic], boosted by blue gems destroyed.(Boost Ratio x 2)"
+,81,Herdmaster,12,Purple,Yellow,Wildfolk,Divinion Fields,Ultra-Rare,Legendary,7,1,1,Wildfolk Bond,Leader,Impervious ,Herdmaster,4,325,5140,Keeper of Souls,Soul Strike,Explode [1+Magic] random Yellow Gems. Cleanse all allies.
+,82,Hippogryph,9,Yellow,Green,Beast,Forest of Thorns,Rare,Mythic,20,3,1,Flying,Air Spirit,Agile ,Hippogryph,3,4885,0,Keghammer,Giant Slayer,Deal [3+Magic] damage to an enemy. Deal double damage if they are Entangled.
+,83,Hobgoblin,11,Red,Green,Marauder,Zaejin,Ultra-Rare,Epic,19,2,1,Siege,Nature Brand,Agile ,Hobgoblin,4,4665,800,Kerberos,Underworld,Deal [3+Magic] damage to an enemy and a random enemy. Gain an extra turn.
+,84,Hydra,18,Red,Blue,Monster,Wild Plains,Legendary,missing,1,,0,Water Heart,Jinx,Huge ,Hydra,6,0,6855,Knight Coronet,Cleave,"Deal [5+Magic] damage randomly split among enemies, Boosted by my missing Life. (Boost Ratio x2)"
+,85,Ice Witch,9,Purple,Yellow,Fey,Stormheim,Epic,Epic,19,0,1,Magic Link,Alert,Arcane ,Ice Witch,5,5245,900,Lady Sapphira,Blood Thief,Deal [4+Magic] damage to an enemy. Your allies gain 1 Magic if the enemy dies.
+,86,Ifrit,13,Red,Yellow,Elemental,Drifting Sands,Epic,Epic,12,0,1,Fire Link,Insulated,Aflame,Ifrit,5,1875,4270,Lamia,Charm,Deal [8+Magic] damage randomly split among enemies. Burn a random enemy.
+,87,Imp of Love,12,Red,,Elemental,Primal,Legendary,Legendary,7,0,1,Elemental Bond,Fire Link,Compassion,Imp of Love,6,405,6450,Lance Knight,Joust,Deal [2+Magic] damage randomly split among enemies. Charm a random enemy. If an enemy dies gain 8 Magic.
+,88,Infernal King,18,Purple,Yellow,Daemon,Blighted Lands,Legendary,Legendary,19,0,1,Fireproof,Aflame,Immortal,Infernal King,6,5855,1000,Luther,Call to Arms,Transform Green Gems to Skulls and transform Brown Gems to Red. Deal [9+Magic] damage randomly split among enemies.
+,89,Jarl Firemantle,15,Red,Brown,Giant,Stormheim,Legendary,Legendary,19,1,1,Leader,Huge,Fiery Cloak,Jarl Firemantle,6,5855,1000,Mist Stalker,Mist Strike,"Create 9 Red and 9 Yellow Gems, then deal [4+Magic] damage to an enemy."
+,90,Keeper of Souls,16,Brown,Purple,Undead,Khetar,Legendary,Legendary,19,1,1,Necromancy,Life Drain,Soul Legion,Keeper of Souls,6,5855,1000,Moloch,Curse of Weakness,Transform all Gems of a chosen color to Skulls.
+,91,Keghammer,12,Brown,Yellow,Dwarf,Stormheim,Epic,Epic,19,0,1,Dwarf Bond,Giant Slayer,Empowered ,Keghammer,5,5245,900,Musketeer,Snipe,"Deal [4+Magic] damage to an enemy, and reduce their Magic by 3."
+,92,Kerberos,16,Brown,Purple,Daemon,Maugrim Woods,Legendary,Legendary,8,0,1,Pyromania,Arcane,Gate Guardian,Kerberos,6,630,6225,Night Terror,Shriek,"Deal [4+Magic] damage to an enemy, with a 25% chance to Devour them."
+,93,Knight Coronet,12,Yellow,Blue,Knight,Sword's Edge,Ultra-Rare,Legendary,19,3,1,Leader,Water Spirit,Stoneskin ,Knight Coronet,4,4665,800,Nymph,Entangle,"Deal [1+Magic] damage to the first 2 enemies, and remove all Purple Gems to boost the effect. (Boost Ratio 3:1)"
+,94,Lady Sapphira,13,Brown,Yellow,Undead,Whitehelm,Epic,Legendary,1,0,1,Cursed,Life Drain,Chill Toucch,Lady Sapphira,5,0,6145,Ogre,Boulder,Deal [1+Magic] True Damage to an enemy. Gain 4 Life and 2 Attack.
+,95,Lamia,9,Red,Blue,Marauder,Mist of Scales,Ultra-Rare,Legendary,8,1,1,Water Brand,Venomous,Empowered ,Lamia,4,505,4960,Orc,Enrage,Force a random enemy to attack the enemies above and below.
+,96,Lance Knight,9,Blue,,Knight,Sword's Edge,Common,Mythic,20,2,1,Knight Bond,Water Link,Reinforced ,Lance Knight,2,4365,0,Orion,Wild Hunt,"Destroy a row. Gain [1+Magic] Armor, boosted by all Green Gems destroyed. (Boost Ratio 1:1)"
+,97,Luther,13,Blue,Brown,Knight,Broken Spire,Epic,Epic,18,1,1,Leader,Grudge,Armored ,Luther,5,4545,1600,Owlbear,Screech,Give all allies [1+Magic] Attack.
+,98,Marid,13,Blue,Brown,Human,Drifting Sands,Epic,Epic,9,0,1,Merchant,Stone Link,Stealthy,Marid,5,830,5315,Paladin,Justice,Deal [5+Magic] damage to an enemy. If there are 10 or more Green Gems then apply a random status effect.
+,99,Marsh Raptor,11,Yellow,Green,Monster,Mist of Scales,Ultra-Rare,Ultra-Rare,7,1,1,Monster Bond,Water Link,Venomous ,Marsh Raptor,4,325,5140,Peasant,Pitchfork,Deal [5+Magic] damage to the weakest enemy. Gain 3 Attack and Magic if the enemy dies.
+,100,Mercy,12,Green,Blue,Divine,Whitehelm,Epic,Legendary,19,0,1,Divine Bond,Blessed,Empowered ,Mercy,5,5245,900,Pegasus,Swift Wing,"Give [0+Magic] Life to the weakest ally, transform Purple Gems to Yellow to boost the effect. Cleanse all allies. (Boost Ratio 3:1)"
+,101,Mist Stalker,10,Red,Purple,Monster,Mist of Scales,Rare,Mythic,10,1,1,Magic Link,Stealthy,Fire Spirit ,Mist Stalker,3,955,3930,Poison Master,Venom Flask,Deal [3+Magic] damage to the weakest enemy. Restore 10 Life if the enemy dies.
+,102,Moloch,14,Red,Yellow,Daemon,Whitehelm,Legendary,Legendary,19,0,1,Fireproof,Fire Link,Suppression,Moloch,6,5855,1000,Pride Hunter,Roar,"Drain an enemy’s Mana. Deal [3+Magic] true damage, Boosted by Mana drained. (Boost Ratio 2:1)"
+,103,Musketeer,6,Red,,Human,Adana,Common,Mythic,20,3,1,Human Bond,Fast,Fire Spirit ,Musketeer,2,4365,0,Priestess,Protection,Deal [2+Magic] damage to an enemy.
+,104,Night Terror,8,Red,Purple,Monster,Zhul'Kari,Rare,Mythic,10,1,1,Monster Bond,Life Drain,Magic Spirit ,Night Terror,3,955,3930,Psion,Mind Wipe,"Deal [0+Magic] damage to the weakest enemy, and remove all Blue Gems to Boost damage. (Boost Ratio 3:1)"
+,105,Nymph,10,Purple,Yellow,Fey,Pan's Vale,Rare,Mythic,13,3,1,Fey Bond,Nature Link,Regeneration ,Nymph,3,1840,3045,Ragnagord,Blitz ‘Em,Entangle an enemy.
+,106,Ogre,6,Blue,,Giant,Broken Spire,Common,Mythic,20,2,1,Frenzy,Big,Regeneration ,Ogre,2,4365,0,Ranger,Lightning Arrow,"Explode a random gem, destroying other gems around it."
+,107,Orc,7,Red,,Marauder,Grosh-Nak,Common,Mythic,1,1,1,Doom,Fire Link,Grudge,Orc,2,0,4365,Raven,Final Strike,Destroy [3+Magic] Skulls. Gain 4 Attack if I am damaged.
+,108,Orion,11,Yellow,Green,Fey,Divinion Fields,Legendary,Legendary,7,0,1,Siege,Alert,True Shot ,Orion,6,405,6450,Reaver,Double Slice,Deal between 3 – [9+Magic] damage to an enemy and place a Hunter’s Mark. Gain +5 Magic.
+,109,Owlbear,10,Yellow,Green,Beast,Forest of Thorns,Rare,Mythic,19,2,1,Beast Bond,Frenzy,Regeneration ,Owlbear,3,4185,700,Revenant,Vengeance,Deal [3+Magic] damage to an enemy. Reduce the enemy’s Attack by 2.
+,110,Paladin,11,Yellow,Green,Divine,Whitehelm,Rare,Mythic,19,3,1,Dragon Slayer,Air Link,Reinforced ,Paladin,3,4185,700,Rex Warrior,Ferocity,"Deal [0+Magic] damage to an enemy, Boosted by my Armor. (Boost Ratio 1:1)"
+,111,Peasant,3,Blue,,Human,Sword's Edge,Common,Mythic,20,3,1,Greedy,Water Heart,Jinx ,Peasant,2,4365,0,Rhynax,Gorefest,Destroy a Gem and the Gems either side of it.
+,112,Pegasus,8,Yellow,Green,Beast,Divinion Fields,Rare,Mythic,12,3,1,Flying,Fast,Arcane ,Pegasus,3,1535,3350,Rock Worm,Burrow,"Deal [2+Magic] damage to the last enemy, and remove all Yellow Gems to Boost damage. (Boost Ratio 2:1)"
+,113,Poison Master,9,Blue,Purple,Marauder,Mist of Scales,Rare,Legendary,9,1,1,Sturdy,Alert,Venomous ,Poison Master,3,680,4205,Rowanne,Thorns,"Choose a Green Gem to explode, and Poison a random enemy."
+,114,Pride Hunter,8,Red,,Wildfolk,Pridelands,Common,Mythic,20,3,1,Wildfolk Bond,Stealthy,Fire Spirit ,Pride Hunter,2,4365,0,Sabertooth Lion,Saber Strike,"Deal [2+Magic] damage to the first enemy, and Silence them."
+,115,Priestess,9,Yellow,,Divine,Whitehelm,Common,Mythic,20,3,1,Divine Bond,Blessed,Regeneration ,Priestess,2,4365,0,Sacred Guardian,Righteous Shield,"Cleanse an ally, and give them [1+Magic] Armor."
+,116,Psion,16,Blue,Purple,Daemon,Darkstone,Legendary,Legendary,9,0,1,Magic Link,Alert,Syphon,Psion,6,930,5925,Salamander,Scorching Blast,Deal [4+Magic] true damage randomly split among enemies. Drain 4 Mana from all enemies.
+,117,Quasit,9,Purple,,Daemon,Blighted Lands,Common,Ultra-Rare,10,1,1,Daemon Bond,Warded,Venomous,Quasit,2,875,3490,Satyr,Ambush,Reduce a random Skill on an enemy by [1+Magic].
+,118,Ragnagord,14,Red,Brown,Wildfolk,Divinion Fields,Epic,Legendary,8,0,1,Marauder Bond,Fast,Fire Spirit ,Ragnagord,5,560,5585,Scale Guard,Twin Fang,Explode [2+Magic] random Gems of a chosen color.
+,119,Ranger,10,Yellow,Green,Wildfolk,Maugrim Woods,Rare,Mythic,1,1,1,Wildfolk Bond,Air Spirit,Armor Piercing,Ranger,3,0,4885,Scarlett,Beast Slayer,"Deal [2+Magic] damage to an enemy, and deal 6 damage randomly split among enemies."
+,120,Raven,10,Red,Blue,Human,Mist of Scales,Epic,Legendary,19,0,1,Marauder Slayer,Stealthy,Water Spirit ,Raven,5,5245,900,Serpent,Spit Venom,Deal [3+Magic] damage to an enemy. Gain most of the Mana back if the enemy dies.
+,121,Reaver,8,Green,,Elf,Zhul'Kari,Common,Mythic,1,1,1,Elf Bond,Nature,Agile ,Reaver,2,0,4365,Shadow Dragon,Evernight,"Deal [0+Magic] damage to first 2 enemies, and remove Red Gems to Boost damage. (Boost Ratio 3:1)"
+,122,Revenant,10,Red,Purple,Undead,Khetar,Rare,Mythic,20,3,1,Water Brand,Avenger,Arcane ,Revenant,3,4885,0,Shadow-Hunter,Shadow Strike,"Gain [0+Magic] Attack, and remove all Skull Gems to Boost the effect. (Boost Ratio 1:1)"
+,123,Rex Warrior,8,Red,Blue,Wildfolk,Pridelands,Rare,Mythic,8,1,1,Frenzy,Avenger,Regeneration ,Rex Warrior,3,460,4425,Sheggra,Lava Strike,"Gain [0+Magic] Attack, and remove Blue Gems to boost the effect. (Boost Ratio 2:1)"
+,124,Rhynax,10,Green,Brown,Beast,Broken Spire,Rare,Mythic,19,1,1,Beast Bond,Sturdy,Stone Spirit ,Rhynax,3,4185,700,Siren,Lure,"Deal [2+Magic] damage to an enemy, and 1 damage to adjacent enemies."
+,125,Roc,15,Yellow,,Beast,Drifting Sands,Common,Rare,10,1,1,Flying,Grudge,Arcane,Roc,2,875,3490,Skeleros,Bone Crusher,Deal [9+Magic] damage to an enemy. Gain 8 Attack and Life. Can only be cast once.
+,126,Rock Worm,8,Brown,,Monster,Khaziel,Common,Mythic,20,1,1,Cunning,Stone Heart,Stone Spirit ,Rock Worm,2,4365,0,Skeleton,Wake the Dead,Deal [2+Magic] damage to the last enemy. Create 7 Brown Gems.
+,127,Rowanne,12,Green,Blue,Fey,Forest of Thorns,Epic,Epic,7,0,1,Nature Heart,Water Spirit,Reinforced ,Rowanne,5,360,5785,Soothsayer,Spirit’s Call,"Deal [3+Magic] damage randomly split among enemies, Boosted by my Armor. (Boost Ratio 1:1)"
+,128,Sabertooth Lion,9,Green,Blue,Beast,Pridelands,Rare,Mythic,15,1,1,Beast Bond,Nature Spirit,Alert ,Sabertooth Lion,3,2485,2400,Sparkgrinder,Upgrade,Deal [3+Magic] damage to an enemy. Gain 2 Magic if the enemy dies.
+,129,Sacred Guardian,11,Brown,Yellow,Divine,Whitehelm,Ultra-Rare,Legendary,19,2,1,Flying,Blessed,Armored ,Sacred Guardian,4,4665,800,Spider Queen,Web,"Deal [2+Magic] damage to an enemy, and increase your Armor by [2+Magic]."
+,130,Salamander,13,Red,Green,Elemental,Pridelands,Epic,Epic,15,0,1,Elemental Bond,Pyromania,Fireproof ,Salamander,5,3045,3100,Spider Swarm,Spider Bite,Deal [4+Magic] damage to an enemy and Burn them.
+,131,Sand Shark,12,Red,Brown,Monster,Drifting Sands,Ultra-Rare,Ultra-Rare,17,1,1,Cunning,Frenzy,Doom,Sand Shark,4,3565,1900,Star Gazer,Blessing,Deal [2+Magic] damage to a random enemy. 25% chance to devour the enemy.
+,132,Satyr,9,Green,,Wildfolk,Pan's Vale,Common,Mythic,20,3,1,Wildfolk Bond,Stealthy,Nature Spirit ,Satyr,2,4365,0,Steam Turret,Barrage,Deal [4+Magic] damage to the last enemy. Gain an extra turn.
+,133,Scale Guard,7,Red,,Marauder,Mist of Scales,Common,Mythic,20,3,1,Fire Link,Frenzy,Venomous ,Scale Guard,2,4365,0,Stone Giant,Destruction,Deal [2+Magic] damage to an enemy. Deal 6 more damage if they are Poisoned.
+,134,Scarlett,14,Red,Green,Knight,Maugrim Woods,Epic,Epic,8,0,1,Leader,Beast Slayer,Fire Spirit ,Scarlett,5,560,5585,Summer Imp,Sunburst,Deal [5+Magic] damage to an enemy. Deal double damage if they are a Beast.
+,135,Serpent,7,Blue,,Beast,Stormheim,Common,Mythic,20,3,1,Cunning,Agile,Venomous ,Serpent,2,4365,0,Summoner,Bolster,Poison the first 2 enemies and create 9 Red Gems. Gain [1+Magic] Life.
+,136,Shadow Dragon,14,Purple,Yellow,Dragon,Sword's Edge,Legendary,Legendary,19,0,1,Magic Link,Sturdy,Darkfall,Shadow Dragon,6,5855,1000,Sunweaver,Ancient’s Glory,"Poison all enemies, and deal [1+Magic] true damage to a random enemy. Transform all Yellow Gems to Purple to Boost the effect. (Boost Ratio 3:1)"
+,137,Shadow-Hunter,13,Blue,Purple,Wildfolk,Pridelands,Epic,Legendary,15,0,1,Water Link,Magic Spirit,Agile ,Shadow-Hunter,5,3045,3100,Swamplash,Twisting Vines,"Deal [4+Magic] damage to the healthiest enemy, boosted by all enemy Life. (Boost Ratio 4:1)"
+,138,Sheggra,16,Red,Brown,Dragon,Broken Spire,Legendary,Legendary,19,0,1,Huge,Aflame,Molten,Sheggra,6,5855,1000,Sylvasi,Mischief,"Create [2+Magic] Red Gems, then turn all Red Gems to Skulls."
+,139,Siren,9,Purple,Green,Fey,Pan's Vale,Rare,Mythic,15,1,1,Blessed,Alert,Empowered ,Siren,3,2485,2400,Tankbot 2000,Gear Strike,"Deal [1+Magic] damage to an enemy, and create 9 Gems of that troop’s Mana Color."
+,140,Skeleros,8,Red,Purple,Undead,Wild Plains,Epic,Legendary,9,0,1,Undead Bond,Magic Brand,Reinforced ,Skeleros,5,830,5315,Tau,Stalk Prey,"Destroy [4+Magic] Skulls, then create 5 Skulls."
+,141,Skeleton,10,Purple,,Undead,Khetar,Common,Mythic,20,3,1,Undead Bond,Knight Slayer,Reinforced ,Skeleton,2,4365,0,Tauros,Trample,Create 7 Skulls. Gain [1+Magic] Attack. Gain an extra turn.
+,142,Soothsayer,9,Green,Brown,Wildfolk,Wild Plains,Rare,Mythic,10,1,1,Stone Link,Cursed,Empowered ,Soothsayer,3,955,3930,Templar,Shield Wall,"Choose a Purple Gem, and destroy its row and column. All other allies gain 1 Magic."
+,143,Sparkgrinder,12,Red,Yellow,Dwarf,Adana,Epic,Epic,18,0,1,Elemental Slayer,Construct Bond,Reinforced ,Sparkgrinder,5,4545,1600,Terraxis,Petrify,Give an ally [3+Magic] Attack and Armor.
+,144,Spider Queen,9,Purple,Green,Elf,Zhul'Kari,Ultra-Rare,Legendary,8,1,1,Leader,Life Drain,Venomous ,Spider Queen,4,505,4960,The Silent One,Hush,Reduce an enemy’s Armor by [1+Magic] and drain their Mana.
+,145,Spider Swarm,6,Red,,Beast,Zhul'Kari,Common,Rare,15,1,1,Cunning,Sturdy,Venomous ,Spider Swarm,2,2275,2090,Thrall,Suffering,Deal [1+Magic] damage to an enemy. Has a chance to poison the enemy.
+,146,Star Gazer,9,Purple,Green,Divine,Divinion Fields,Rare,Mythic,9,1,1,Blessed,Magic Spirit,Empowered ,Star Gazer,3,680,4205,Treant,Barkskin,"Give an ally [0+Magic] Attack, and remove all Blue Gems to Boost the effect. (Boost Ratio 4:1)"
+,147,Steam Turret,10,Brown,Yellow,Construct,Adana,Rare,Mythic,20,1,1,Construct Bond,Fire Spirit,Reinforced ,Steam Turret,3,4885,0,Tyri,Treasure Hunt,Deal [3+Magic] damage randomly split among enemies.
+,148,Stone Giant,10,Green,Blue,Giant,Broken Spire,Ultra-Rare,Legendary,13,1,1,Giant Bond,Big,Stoneskin ,Stone Giant,4,2010,3455,Valkyrie,Valhalla,"Deal [3+Magic] damage to a random enemy, and remove all Red Gems to Boost damage. (Boost Ratio 3:1)"
+,149,Succubus,9,Red,Purple,Daemon,Blighted Lands,Rare,Ultra-Rare,10,1,1,Cursed,Life Drain,Daemonic Pact,Succubus,3,955,3930,Vampire Lord,Lifeblood,Drain [1+Magic] Mana from an enemy and place Deathmark on them.
+,150,Summer Imp,12,Yellow,,Elemental,Primal,Legendary,Legendary,15,0,1,Elemental Bond,Air Link,Sunshine,Summer Imp,6,3405,3450,Venoxia,Noxious Gas,Deal [3+Magic] damage randomly split among enemies and create 7 Red Gems. If an enemy dies gain 8 Magic.
+,151,Summoner,14,Red,Purple,Marauder,Grosh-Nak,Rare,Mythic,20,3,1,Magic Heart,Jinx,Daemonic Pact ,Summoner,3,4885,0,War Sphinx,The Riddle,Give all Allies 4 Life. Summon a level [0] Ghoul.
+,152,Sunweaver,13,Yellow,Blue,Undead,Wild Plains,Epic,Epic,16,0,1,Monster Slayer,Jinx,Water Spirit ,Sunweaver,5,3495,2650,Warhound,Howl,"Increase Attack, Armor and Life of an Ally by [2+Magic]. Ally also gains 6 Mana."
+,153,Swamplash,12,Green,Brown,Monster,Mist of Scales,Epic,Epic,9,0,1,Monster Bond,Nature Link,Impervious ,Swamplash,5,830,5315,Warlock,Dark Channel,Deal [6+Magic] damage to an enemy troop. Deal double damage if the enemy is entangled. Entangle the enemy.
+,154,Sylvasi,14,Red,Green,Fey,Pan's Vale,Epic,Epic,8,0,1,Nature Brand,Stealthy,Avenger ,Sylvasi,5,560,5585,Watcher,Piercing Gaze,"Steal [0+Magic] Attack from an enemy, and transform all Yellow Gems to Purple to Boost the effect. (Boost Ratio 5:1)"
+,155,Tankbot 2000,11,Red,Brown,Construct,Adana,Epic,Epic,16,0,1,Fire Brand,Fast,Reinforced ,Tankbot 2000,5,3495,2650,Webspinner,Venom Weave,Steal 4 Armor from an enemy and deal [3+Magic] damage.
+,156,Tau,11,Yellow,Blue,Wildfolk,Sword's Edge,Epic,Legendary,17,0,1,Knight Slayer,Dragon Slayer,Impervious ,Tau,5,3995,2150,Wight,Life Drain,"Gain [0+Magic] Attack, and remove all Red Gems to boost the effect. (Boost Ratio 1:1)"
+,157,Tauros,7,Green,,Wildfolk,Wild Plains,Common,Mythic,20,3,1,Nature Link,Sturdy,Avenger ,Tauros,2,4365,0,Wild Fang,Primal Fury,"Deal [2+Magic] damage to the first enemy. If I am damaged, deal 5 damage to the second enemy."
+,158,Templar,10,Blue,Brown,Knight,Whitehelm,Rare,Mythic,19,1,1,Defender,Water Link,Armored ,Templar,3,4185,700,Winter Imp,Frostbite,"Give all allies [0+Magic] Armor, and transform all Red Gems to Green to Boost the effect. (Boost Ratio 5:1)"
+,159,Terraxis,14,Red,Yellow,Daemon,Broken Spire,Epic,Epic,8,0,1,Siege,Fire Link,Stone Spirit ,Terraxis,5,560,5585,Wolf Knight,Hunt,"Deal [1+Magic] damage to all enemies, and transform Blue Gems to Brown to Boost the effect."
+,160,The Great Maw,24,Brown,Yellow,Monster,Drifting Sands,Legendary,Legendary,19,0,1,Frenzy,Huge,Hunger,The Great Maw,6,5855,1000,Zephyros,Lightning Bolt,Devour an enemy. Create 8 Yellow Gem and Brown Gems. Can only be cast once.
+,161,The Silent One,18,Yellow,Blue,Daemon,Pan's Vale,Legendary,Legendary,8,0,1,Water Link,Demonic Pact,Silence,The Silent One,6,630,6225,Zombie,Eat Brains,Silence all enemies and himself.
+,162,Thrall,6,Purple,,Human,Darkstone,Common,Mythic,20,1,1,Human Bond,Magic Heart,Magic Link ,Thrall,2,4365,0,,,"Destroy [4+Magic] random Gems. Take 2 damage. If there are 10 or more Red Gems on the board, gain an extra turn."
+,163,Treant,12,Green,Blue,Fey,Forest of Thorns,Ultra-Rare,Mythic,9,1,1,Nature Heart,Big,Stoneskin ,Treant,4,745,4720,,,"Gain [0+Magic] Attack and Armor, and remove all Brown Gems to Boost the effect. (Boost Ratio 4:1)"
+,164,Twisted Hero,10,Red,Yellow,Undead,Blighted Lands,Ultra-Rare,Epic,10,1,1,Undead Bond,Doom,Grudge,Twisted Hero,4,1045,4420,,,Create [Magic -1] Red and Purple Gems. Increase a random skill on a random ally by [1+Magic].
+,165,Tyri,8,Purple,Green,Elf,Zhul'Kari,Epic,Epic,15,0,1,Greedy,Stealthy,Arcane ,Tyri,5,3045,3100,,,"Remove all Gems of a chosen color. Gain [4+Magic] Gold, Boosted by the gems removed. (Boost Ratio 3:1)"
+,166,Valkyrie,10,Red,Yellow,Divine,Stormheim,Rare,Mythic,20,3,1,Divine Bond,Necromancy,Water Link ,Valkyrie,3,4885,0,,,Transform a selected Mana color to Blue. Gain [1+Magic] Soul(s).
+,167,Vampire Lord,13,Red,Yellow,Undead,Ghulvania,Rare,Mythic,8,1,1,Knight Slayer,Life Drain,Fire Spirit ,Vampire Lord,3,460,4425,,,"Deal [1+Magic] True Damage to an enemy, and remove all Red Gems to boost the effect. Gain 4 Life. (Boost Ratio 3:1)"
+,168,Venbarak,13,Blue,Purple,Dragon,Blighted Lands,Epic,Legendary,10,0,1,Immune,Magic Link,Virulence,Venbarak,5,1165,4980,,,Deal [1+Magic] damage to all enemies. 30% chance to Disease all enemies.
+,169,Venoxia,16,Purple,Green,Dragon,Mist of Scales,Legendary,Legendary,9,0,1,Nature Brand,Arcane,Miasma,Venoxia,6,930,5925,,,"Create 9 Green and 9 Blue Gems, then deal 2 True Damage to all enemies. Gain [0+Magic] Attack."
+,170,War Sphinx,7,Blue,Purple,Monster,Khetar,Ultra-Rare,Legendary,19,1,1,Water Brand,Regeneration,Impervious ,War Sphinx,4,4665,800,,,Jumble the Board. Gain an extra turn.
+,171,Warhound,7,Yellow,Green,Beast,Sword's Edge,Rare,Mythic,19,2,1,Beast Bond,Frenzy,Air Link ,Warhound,3,4185,700,,,Reduce the first enemy’s Attack by [0+Magic].
+,172,Warlock,8,Blue,Brown,Human,Karakoth,Rare,Mythic,20,1,1,Daemon Bond,Water Spirit,Daemonic Pact ,Warlock,3,4885,0,,,"Deal [0+Magic] damage to an enemy, and remove all Purple Gems to Boost damage. (Boost Ratio 3:1)"
+,173,Watcher,12,Brown,Purple,Monster,Darkstone,Ultra-Rare,Legendary,9,1,1,Daemon Bond,Stone Heart,Arcane ,Watcher,4,745,4720,,,"Deal [2+Magic] true damage to an enemy, and 1 true damage to adjacent enemies. Drain the enemy’s Mana if they have a Status Effect."
+,174,Webspinner,16,Green,Blue,Daemon,Zhul'Kari,Legendary,Legendary,15,0,1,Daemon Bond,Sturdy,Lethal Toxin,Webspinner,6,3405,3450,,,Deal [0+Magic] Damage to all enemies and Poison them. Create 9 Green Gems.
+,175,Wight,10,Red,Blue,Undead,Khetar,Rare,Mythic,20,1,1,Water Link,Life Drain,Fire Spirit ,Wight,3,4885,0,,,Steal [1+Magic] Life from an enemy. Create 5 Purple Gems.
+,176,Wild Fang,11,Red,Blue,Marauder,Wild Plains,Epic,Epic,10,0,1,Wildfolk Slayer,Fast,Armored ,Wild Fang,5,1165,4980,,,Deal [4+Magic] damage to a random enemy. Deal triple damage if they are Wildfolk.
+,177,Winter Imp,12,Blue,,Elemental,Primal,Legendary,Legendary,15,0,1,Elemental Bond,Water Link,Chill,Winter Imp,6,3405,3450,,,"Deal [3+Magic] true damage randomly split among enemies, and remove all Blue Gems to Boost damage. If an enemy dies gain 4 Magic. (Boost Ratio 3:1)"
+,178,Wolf Knight,8,Brown,Yellow,Knight,Sword's Edge,Rare,Legendary,6,1,1,Fireproof,Air Spirit,Armor Piercing,Wolf Knight,3,185,4700,,,Deal [1+Magic] true damage. Add 3 damage if the enemy is wounded.
+,179,Wyvern,10,Green,Brown,Dragon,Grosh-Nak,Ultra-Rare,Ultra-Rare,5,1,1,Dragon Bond,Sturdy,Fast,Wyvern,4,115,5350,,,Deal [4+Magic] damage to the first enemy and poison the last enemy. 
+,180,Zephyros,12,Yellow,Blue,Giant,Stormheim,Epic,Legendary,11,0,1,Giant Bond,Air Link,Air Spirit ,Zephyros,5,1515,4630,,,"Destroy a Column. Deal [5+Magic] damage randomly split among enemies, Boosted by Yellow Gems destroyed. (Boost Ratio x3)"
+,181,Zombie,7,Purple,,Undead,Ghulvania,Common,Mythic,20,3,1,Undead Bond,Necromancy,Magic Spirit,Zombie,2,4365,0,,,"Remove [3+Magic] random Skulls, and restore full Life. Increase a random Skill by 2."
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Totals:,Original,Latest,,,,,,,Totals,,497450,502760,,,
+,,,,,,,Common,27,0,,,,,,,,,,,,,A 10% chance to die each turn (after 2 turns). There is a cumulative 10% chance to recover each turn.
+,,,,,,,Rare,48,3,,,,,,,,,,1000210,,,Disease halves the Mana a troop gains. There is a cumulative 10% chance to recover each turn.
+,,,,,,,Ultra-Rare,29,7,,,,,,,,,,41000,,,
+,,,,,,,Epic,48,29,,,,,,,,,,1041210,,,
+,,,,,,,Legendary,29,72,,,,,,,,,,,,,
+,,,,,,,Mythic,0,65,,,,,,,,,2550,520605,,,
+,,,,,,,Missing,0,5,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Totals:,181,181,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,Lvl,,,,,,,,,,,,,
+,,,,,,,,,20,36,,,,,,,,,,,,
+,,,,,,,,,19,39,,,,,,,,,,,,
+,,,,,,,,,18,6,,,,,,,,,,,,
+,,,,,,,,,17,2,,,,,,,,,,,,
+,,,,,,,,,16,3,,,,,,,,,,,,
+,,,,,,,,,15,14,,,,,,,,,,,,
+,,,,,,,,,14,1,,,,,,,,,,,,
+,,,,,,,,,13,2,,,,,,,,,,,,
+,,,,,,,,,12,3,,,,,,,,,,,,
+,,,,,,,,,11,1,,,,,,,,,,,,
+,,,,,,,,,10,16,,,,,,,,,,,,
+,,,,,,,,,9,14,,,,,,,,,,,,
+,,,,,,,,,8,15,,,,,,,,,,,,
+,,,,,,,,,7,13,,,,,,,,,,,,
+,,,,,,,,,6,1,,,,,,,,,,,,
+,,,,,,,,,5,1,,,,,,,,,,,,
+,,,,,,,,,4,0,,,,,,,,,,,,
+,,,,,,,,,3,0,,,,,,,,,,,,
+,,,,,,,,,2,1,,,,,,,,,,,,
+,,,,,,,,,1,13,,,,,,,,,,,,
+,,,,,,,,,0,,,,,,,,,,,,,
