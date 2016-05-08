@@ -14,4 +14,12 @@ Uploaded last month.
 GofW-Main-GitHub.csv.
 Test csv file uploaded last month.
 
+Future Projects:
+
+Team-Builder.
+TraitMaster
+
+Considering moving projects to GoogleSheets.
+
+
 
