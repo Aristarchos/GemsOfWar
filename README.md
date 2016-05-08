@@ -5,7 +5,6 @@ GofWStarSheets.ods
 These worksheets allow users to make decisions
 about Kingdom Power Stars.  
 This is the Beta version.  
-Work in Progress.
 
 GofW-Main-GitHub.ods.
 Test file contains out-of-date data pre-update 1.0.9.
