@@ -1,4 +1,6 @@
 # GemsOfWar
-TeamBuilder
-This will be the document describing my aims - Setting-Up
+GoWStarSheets
+These worksheets allow users to make decisions
+about Kingdom Power Stars
+This is the Beta version
 Work in Progress
